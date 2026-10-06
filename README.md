@@ -1,7 +1,7 @@
 # Educameter: pipeline de limpieza y analítica de encuestas en AWS
 
 **Caso de estudio · Prácticum 2.1 · Universidad Técnica Particular de Loja (UTPL) · Nov 2025 – Ene 2026**
-Autor: Willian Jadán · Facultad de Ingeniería y Arquitectura
+Autor: Willian Alexander Jadán Urgiles · Facultad de Ingeniería y Arquitectura
 
 > **Sobre la evidencia.** Los recursos de AWS se eliminaron al terminar el Prácticum para evitar costos, algunos scripts se rescataron. Este repositorio documenta el trabajo a partir de los informes de avance entregados a mi tutor (6 informes, fechados entre el 28/11/2025 y el 23/01/2026). Todos los datos y capturas mostrados están anonimizados o son sintéticos.
 
@@ -50,6 +50,10 @@ flowchart LR
   E --> F[RDS MySQL Free Tier]
   F --> G[QuickSight]
 ```
+
+## Arquitectura propuesta
+
+<img width="1254" height="490" alt="image" src="https://github.com/user-attachments/assets/98f4d61b-2b7a-446a-a57c-c742d0d29c42" />
 
 ## Servicios y su rol
 
