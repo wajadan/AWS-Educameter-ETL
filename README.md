@@ -264,5 +264,5 @@ Todo el trabajo se hizo bajo el plan gratuito de AWS y con servicios de bajo cos
 
 ## Documentación original
 
-Informes de avance del Prácticum 2.1 (versiones anonimizadas): *[AÑADIR enlace a /docs]*
-Propuestas de visualización en Figma: *[AÑADIR enlace si es público]*
+[Informes de avance del Prácticum 2.1](https://github.com/wajadan/AWS-Educameter-ETL/tree/ec0ae3bfc5227be2dbd40946ffbed442938a685e/docs/informes)
+[Propuestas de visualización en Figma](https://github.com/wajadan/AWS-Educameter-ETL/tree/ec0ae3bfc5227be2dbd40946ffbed442938a685e/docs/img)
